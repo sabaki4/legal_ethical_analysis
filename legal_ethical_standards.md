@@ -28,3 +28,18 @@
 - Implement fair monetisation strategies that do not create a pay-to-win scenario.
 - Offer alternative ways for players to unlock content without solely relying on real-money purchases.
 - Ensure transparency regarding costs and benefits of in-game purchases.
+
+## Scenario 3: `friends.com`
+
+**Legal Analysis:**
+- **Data Privacy Regulations**: Sharing users' location data with advertisers must adhere to data privacy regulations, including getting proper consent.
+- **Subscription Models**: Implementing a premium membership model requires clear terms and conditions compliant with consumer protection laws.
+
+**Ethical Analysis:**
+- **Creating Social Divides**: Restricting features to paying users could create social inequalities and limit access to socialising opportunities.
+- **Manipulative Advertising**: Offering free trials followed by targeted ads may manipulate users into subscribing without fully understanding the terms and benefits.
+
+**Recommendations:**
+- Obtain explicit consent before sharing users' location data with advertisers.
+- Provide additional value for premium users without significantly hindering the functionality of the free tier.
+- Ensure transparency in advertising and subscription models to avoid manipulating users.
